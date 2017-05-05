@@ -1,0 +1,39 @@
+body{
+    padding: 50px;
+}
+
+.contenido{
+    background: #E8E8E7;
+}
+
+img{
+    width: 1233px;
+    height: 450px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.linea{
+    width: 1233px;
+    height: 12px;
+    background: #8BCC98;
+    margin-bottom: 15px;
+}
+
+.cuerpo{
+    padding: 15px;
+    padding-top: 10px;
+    background: white;
+    width: 400px;
+    margin: 0 auto;
+    color: dimgrey;
+}
+p{
+    text-indent: 40px;
+    font-family: Arial;
+    margin: 0px;
+}
+
+h2{
+    font-family: "Arial Black";
+    font-size: 18px;
+}

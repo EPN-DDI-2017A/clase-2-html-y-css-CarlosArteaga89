@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+}
+body{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background: white;
+}
+p{
+    padding: 15px;
+    margin-top: 70px;
+    margin-right: 380px;
+    text-align: center;
+    color: #F8981C;
+    background: white;
+    width: 70px;
+    height: 70px;
+    font-size: 60px;
+    font-family: "Vladimir Script";
+    border: 10px solid #F8981C;
+    border-radius: 50%;
+}
+
+.titulo{
+    text-align: right;
+    color: #7C8B88;
+    margin-top: 95px;
+}
+
+h1{
+    font-size: 60px;
+    font-family:"Arial Unicode MS";
+}
+
+.linea{
+    width: 926px;
+    height: 5px;
+    background: #BCBBBB;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+h3{
+    color: #BCBBBB;
+    font-size: 30px;
+}
+.cabecera{
+    display: inline-flex;
+    margin-bottom: 10px;
+}
+.iconos{
+    display: inline-flex;
+}
+img{
+    padding:10px;
+}
+.nombres{
+    display: inline-flex;
+}
+h4{
+    padding-left: 120px;
+    padding-right: 60px;
+    color: #747704;
+    font-size: 25px;
+}
+.enlaces{
+    display: inline-flex;
+}
+a{
+    padding-left: 50px;
+    padding-right: 30px;
+    width: 100px;
+    color: #BCBBBB;
+}
